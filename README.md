@@ -12,16 +12,16 @@ This project is part of my **minor project** and focuses on leveraging technolog
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Programming Languages**: Python
 - **Frameworks**: Flask
 - **Database**: MySQL
 - **Tools**: Jupyter Notebook, Exploratory Data Analysis (EDA), Machine Learning (ML)
 ---
 
-## 🌟 Future Enhancements
-- 🌐 Integration with IoT devices for real-time data collection.
-- 📱 Mobile application for better accessibility.
+##  Future Enhancements
+-  Integration with IoT devices for real-time data collection.
+-  Mobile application for better accessibility.
 ---
 
 
