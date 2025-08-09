@@ -53,18 +53,7 @@ This project is part of my **minor project** and focuses on leveraging technolog
 ## 🌟 Future Enhancements
 - 🌐 Integration with IoT devices for real-time data collection.
 - 📱 Mobile application for better accessibility.
-- 🤖 Advanced AI models for pest detection.
-
 ---
-
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
----
-
-## 📧 Contact
-For any queries, feel free to reach out:
-- **Email**: [sohamsawankhanna@gmail.com](mailto:sohamsawankhanna@gmail.com)
 
 
 
